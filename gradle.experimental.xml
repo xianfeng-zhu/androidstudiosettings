@@ -1,0 +1,5 @@
+<application>
+  <component name="GradleExperimentalSettings">
+    <option name="SKIP_SRC_AND_JAVADOC_DOWNLOAD_ON_SYNC" value="true" />
+  </component>
+</application>
