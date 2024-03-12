@@ -89,6 +89,11 @@
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="USE_SOFT_WRAPS" value="true" />
+        </PlaceSettings>
+      </entry>
       <entry key="TestsFiledAssertions">
         <PlaceSettings>
           <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
