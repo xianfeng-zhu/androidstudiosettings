@@ -1,6 +1,5 @@
 <application>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_TAG_NAMES" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
@@ -15,12 +14,10 @@
         <entry key="Navigate.Log.To.Branch.on.Branch.Selection" value="true" />
       </map>
     </option>
+    <option name="SHOW_TAG_NAMES" value="true" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/development/temp_files" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
-  </component>
-  <component name="VcsEditorTab.Settings">
-    <option name="openInNewWindow" value="true" />
   </component>
 </application>
