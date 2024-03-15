@@ -1,0 +1,15 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <ignoredBuildNumbers>
+      <item value="203.7717.56.2031.7479365" />
+      <item value="cmdline-tools;latest#7.0" />
+      <item value="emulator#31.2.10" />
+      <item value="platform-tools#33.0.2" />
+      <item value="system-images;android-30;google_apis;arm64-v8a#11" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="AI-231.9392.1.2311.11330709" />
+    <option name="LAST_TIME_CHECKED" value="1710325968461" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="UPDATE_CHANNEL_TYPE" value="release" />
+  </component>
+</application>

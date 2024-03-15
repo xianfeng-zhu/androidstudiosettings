@@ -1,0 +1,9 @@
+<application>
+  <component name="AndroidLogcatSettings">
+    <option name="ignoredTags">
+      <set>
+        <option value="EGL_emulation" />
+      </set>
+    </option>
+  </component>
+</application>

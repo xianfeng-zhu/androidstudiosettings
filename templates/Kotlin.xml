@@ -1,0 +1,22 @@
+<templateSet group="Kotlin">
+  <template name="ktst" value="@Test&#10;fun `GIVEN $GIVEN$ WHEN $WHEN$ THEN $THEN$`(){&#10;}" description="kotlin test function" toReformat="true" toShortenFQNames="true">
+    <variable name="GIVEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WHEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="THEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="tds" value="TextData.of(&quot;$CONTENT$&quot;)" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="tdk" value="TextData.of(R.string.$KEY$)" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

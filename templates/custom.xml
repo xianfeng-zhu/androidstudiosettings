@@ -1,0 +1,28 @@
+<templateSet group="custom">
+  <template name="tag" value="private static final String TAG = $CLASS_NAME$.class.getSimpleName();$END$" description="create TAG by current class name" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="ClassName" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="pld" value="PLog.d(TAG, &quot;$END$&quot;);" description="PLog#d" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="plw" value="PLog.w(TAG, &quot;$END$&quot;);" description="PLog#w" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="ple" value="PLog.e(TAG, &quot;$END$&quot;);" description="PLog#e" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="pli" value="PLog.i(TAG, &quot;$END$&quot;);" description="PLog#i" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

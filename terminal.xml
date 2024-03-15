@@ -1,0 +1,7 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myCloseSessionOnLogout" value="false" />
+    <option name="myPasteOnMiddleMouseButton" value="false" />
+    <option name="myTabName" value="Local" />
+  </component>
+</application>
