@@ -1,6 +1,5 @@
 <scheme name="Dracula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
@@ -23,7 +22,7 @@
         <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
@@ -434,7 +433,7 @@
         <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
-    <option name="HTML_TAG_NAME" baseAttributes="" />
+    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="242632" />

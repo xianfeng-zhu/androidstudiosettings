@@ -92,11 +92,11 @@
         <option name="hideEmptyMiddlePackages" value="true" />
         <option name="showLibraryContents" value="true" />
       </component>
-      <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "settings.editor.selected.configurable": "ics"
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;emulator&quot;
   }
-}]]></component>
+}</component>
       <component name="RunManager">
         <configuration default="true" type="Application" factoryName="Application">
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -184,10 +184,10 @@
         </configuration>
       </component>
       <component name="WindowStateProjectService">
-        <state x="789" y="247" key="SettingsEditor" timestamp="1710154105656">
+        <state x="788" y="302" key="SettingsEditor" timestamp="1690896097863">
           <screen x="0" y="25" width="2560" height="1415" />
         </state>
-        <state x="789" y="247" key="SettingsEditor/520.1478.1512.944/0.25.2560.1415" timestamp="1710154105656" />
+        <state x="788" y="302" key="SettingsEditor/231.1478.1512.944/0.25.2560.1415" timestamp="1690896097863" />
       </component>
       <component name="masterDetails">
         <states>
