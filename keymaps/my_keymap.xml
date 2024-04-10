@@ -165,7 +165,6 @@
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="shift meta button1" />
     <keyboard-shortcut first-keystroke="ctrl s" />
-    <keyboard-shortcut first-keystroke="ctrl meta s" />
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="GotoNextElementUnderCaretUsage">
