@@ -4,7 +4,7 @@
     <property name="created">2018-05-24T15:59:22</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.2.0</property>
-    <property name="modified">2024-04-17T10:30:56</property>
+    <property name="modified">2024-04-17T15:08:00</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -441,7 +441,7 @@
         <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
-    <option name="HTML_TAG_NAME" baseAttributes="" />
+    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="242632" />
