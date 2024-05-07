@@ -6,6 +6,7 @@
         <entry key="*" value="true" />
       </map>
     </languageAllowList>
+    <option name="showIdeCompletions" value="true" />
     <option name="checkForUpdate" value="false" />
   </component>
 </application>
